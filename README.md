@@ -32,7 +32,7 @@ Goal: Understand basic malware concepts, goals, and tools.
 Goal: Write basic malware functionality and understand detection and evasion techniques.
 
 #### 💻 Skills to Develop:
-- Write basic malware in **C/C++**, **Python**, and/or **Go**
+- Write basic malware in **Rust**
   - Keylogger
   - Reverse shell
   - Persistence (registry, startup folder, services)
