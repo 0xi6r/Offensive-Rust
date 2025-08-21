@@ -30,5 +30,5 @@ Goal: Write basic malware functionality and understand detection and evasion tec
   - C2 client/server using HTTP or DNS # actually don't reinvent the wheel, use sliver/adaptix
 ---
 
-### 👾 ** Advanced Malware Development**
+### 👾 Advanced Malware Development
 Goal: stealth, advanced delivery, and bypassing modern defenses.
